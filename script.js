@@ -352,7 +352,7 @@ document.addEventListener('DOMContentLoaded', () => {
     cvBtn.addEventListener('click', (e) => {
       e.preventDefault();
       // Provide an interactive toast feedback
-      showNotification('📄 Resume download initiated! (Demo file: Alex_Morgan_Resume.pdf)', 'success');
+      showNotification('📄 Resume download initiated! (Demo file: Nasrullah_Resume.pdf)', 'success');
     });
   }
 
